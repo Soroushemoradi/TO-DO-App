@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,html{
+  width: 100%;
+  height: 100%;
+  background-color: #3920FE;
+}
+button:hover svg{
+  transform: scale(1.2);
+  transition: all 300ms;
+  color: #3920FE;
+}
