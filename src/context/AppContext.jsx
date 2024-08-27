@@ -57,4 +57,3 @@ const value={handleChange,addText,deleteTodo,editHandler,editButton,newTask,text
 }
 
 export default AppContext
-//ye function random color bayad begire ke zaman add shodan todoo on farakhani she
